@@ -4,8 +4,8 @@ module.exports = function reverse (n) {
     }else {
         n = ''+ n
     }
-    new_number = ''
-    len_n = n.length
+    let new_number = ''
+    let len_n = n.length
     for (let i = len_n; i >= 0; i--){
       new_number += n.charAt(i);
     }
