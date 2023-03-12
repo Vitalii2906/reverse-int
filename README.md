@@ -1,4 +1,4 @@
-
+# new text
 
 ## Task
 
@@ -9,7 +9,7 @@ For example:
 reverse(123); // 321
 reverse(233); // 332
 reverse(535); // 535
-reverse(95034); // 43059
+
 ```
 
 Write your code in `src/index.js.
